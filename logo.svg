@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" fill="none">
+  <title>KodandaRamReddy Constructions and Interiors</title>
+  <g stroke="#20231f" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M22 65 76 18l54 47" stroke-width="5"/>
+    <path d="M34 59v67h84V59M25 126h102" stroke-width="4"/>
+    <path d="M58 125V83h36v42M76 84v41" stroke="#68705c" stroke-width="4"/>
+    <path d="M44 69h64" stroke-width="3"/>
+  </g>
+  <text x="155" y="78" fill="#20231f" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="1.2">KodandaRamReddy</text>
+  <path d="M157 95h397" stroke="#68705c" stroke-width="2"/>
+  <text x="158" y="121" fill="#68705c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="4">CONSTRUCTIONS &amp; INTERIORS</text>
+</svg>
